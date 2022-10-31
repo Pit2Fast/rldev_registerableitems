@@ -27,7 +27,6 @@ for k,v in pairs (Config.Items) do
             TriggerClientEvent('esx_status:add', source, 'hunger', Config.Items[k].hunger * 10000)
             TriggerClientEvent('esx_basicneeds:onEat', source)
             xPlayer.showNotification(Config.EatText .. Config.Items[k].displayName)
-            print('Sono qui')
         end)
 
         if (Config.Debug) then
