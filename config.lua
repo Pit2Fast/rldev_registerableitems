@@ -3,8 +3,8 @@ Config = {}
 -- Items must be registered inside the items table in database
 -- Gli oggetti devono essere registrati nella tabella items del database
 
--- EN: About hunger and thirst, the number inside the '' will be the percentage of hunger or thirst refilled, for example 20 is 20% of the status
--- IT: Il numero tra le '' per la fame e la sete sarà la percentuale aggiunta alla fame od alla sete, per esempio 20 sta per 20% dello stato
+-- EN: About hunger and thirst, the number will be the percentage of hunger or thirst refilled, for example 20 is 20% of the status
+-- IT: Il numero per la fame e la sete sarà la percentuale aggiunta alla fame od alla sete, per esempio 20 sta per 20% dello stato
 
 Config.Debug = true -- EN: Prints in console all foods and drinks that are registered       IT: Mostra nella console tutte le bevande e cibi registrati
 
