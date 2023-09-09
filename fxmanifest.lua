@@ -2,7 +2,7 @@ fx_version 'adamant'
 game 'gta5'
 lua54 'yes'
 
-description 'SPDN Development - Item Registrabili'
+description 'RL Development - Item Registrabili'
 author 'Spado19#6243'
 
 version '1.0A'
